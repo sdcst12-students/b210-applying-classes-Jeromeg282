@@ -31,9 +31,16 @@ class game:
         print(self.winnercheck())
 
 
+while True:
+    i=input("Enter your move: 'rock, paper, scissors, lizard, spock. or 'quit' to exit out of the game: ")
 
+    if i =='quit':
+      break
 
-  pass
+    game=game(i)
+    game.play_game()
+
+pass
 
 
 # This is the only command allowed that is not in the class template. All code must be done there.

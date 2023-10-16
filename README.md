@@ -18,5 +18,8 @@ You will be graded on the following criteria:
 * appropriate use of local variables ( in class methods/functions)
 * modularity (breaking up the main code into appropriate class methods/functions
 * presentation (appearance, grammar, spelling)
-* bulletproofing (preventing the program from crashing on bad input)
+* bulletproofing (preventing the program from crashing on bad input) 
   
+
+
+

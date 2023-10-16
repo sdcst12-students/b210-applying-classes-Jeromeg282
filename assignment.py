@@ -32,7 +32,7 @@ class game:
 
 
 while True:
-    i=input("Enter your move: 'rock, paper, scissors, lizard, spock. or 'quit' to exit out of the game: ")
+    i=input("Enter your move: 'rock, paper, scissors, lizard, spock. or 'quit' to exit out of the game: ").lower()
 
     if i =='quit':
       break
